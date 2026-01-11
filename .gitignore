@@ -1,0 +1,10 @@
+
+# Binaries
+safesearch
+fuzz_safesearch
+*.o
+*.a
+
+# OS specific
+.DS_Store
+Thumbs.db
